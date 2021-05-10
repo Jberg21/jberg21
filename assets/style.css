@@ -142,7 +142,7 @@ p {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #072f42;
     color: #ffffff;
-    background-image: url("/Users/jberg/Desktop/Bootcamp/jberg21/assets/Background.png");
+    background-image: url("assets/Background.png");
 }
 
 .footer h1 {
@@ -203,7 +203,7 @@ p {
     font-size: 22px;
     font-weight: bold;
     margin-bottom: 15px;
-    background-image: url('/Users/jberg/Desktop/Bootcamp/jberg21/assets/Background.png');
+    background-image: url('/assets/Background.png');
     background-size: cover;
     background-position: center;
     padding: 20px 0;
